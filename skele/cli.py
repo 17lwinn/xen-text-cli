@@ -1,5 +1,5 @@
 """
-skele
+skele- a CLI for XenText
 
 Usage:
   skele hello
@@ -9,13 +9,19 @@ Usage:
 Options:
   -h --help                         Show this screen.
   --version                         Show version.
+  
+Testing (Use these for script testing):
 
+
+python setup.py test       Run the python tests, see if the cli is working
+
+__________________________________
 Examples:
   skele hello
+__________________________________
 
 Help:
-  For help using this tool, please open an issue on the Github repository:
-  https://github.com/rdegges/skele-cli
+  For help using this tool, contact one of XenTexts devs
 """
 
 
